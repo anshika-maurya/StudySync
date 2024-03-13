@@ -52,12 +52,12 @@ body{
 
 
 .logo-icon{
-    height: 5.875rem;
-    width: 1.938rem;
+    height: 5.885rem;
+    width: 1.97rem;
 
 }
 .logo-text{
-    font-size: 2rem;
+   font-size: 1.67rem;
 }
 
 .nav{
@@ -122,7 +122,7 @@ body{
     }
     .logo-icon{
         height: 3.875rem;
-        width: 1.7rem;
+         width: 1.98rem;
     
     }
     .logo-text{
@@ -847,8 +847,11 @@ ul{
         max-width: 1280px;
     }
     .logo-svg{
-        width: 2rem;
+        width: 1.6rem;
         height: 6rem;
+    }
+    .comp-logo a{
+        font-size: 1.18rem;
     }
     .social-icon{
         width: 1.5rem;
